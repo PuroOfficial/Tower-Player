@@ -4,7 +4,7 @@
 
 **Credits to: Castle.xyz** *(by Monterey's Coast)*
 
-*this project was made because i was really bored.*
+*this project was made because i was really bored, and uses html for playing.*
 
 
 ## Instructions
@@ -31,6 +31,23 @@ Pros|Cons
 ---- | ----
 Higher Performance | No Multi-touch (unless have a touchscreen)
 Portable | Audio Tearing (based on your specs)
+
+## Compiling
+
+If you want to compile your project with your changes, Please note that it runs better with Visual Studio 2019.
+
+If you made modifications to your local repository, You can use this information to Build it for Windows as well.
+
+
+I think you can figure the rest of the compilation yourself If you use Visual Studio everyday.
+
+**If not:**
+
+Open Project or Solution on the Main Page.
+
+Press Play when you are ready to make changes and compile Tower Player.
+
+**Requirements: .NET Framework 4.8 and Visual Studio 2019**
 
 ## Troubleshooting
 
