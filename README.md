@@ -63,3 +63,25 @@ If you can't launch the application because of a missing DLL, Your WebView DLL d
 # Deck Loading Problems
 If your deck takes more then 2 minutes.
 Your DPI is trying to access something else. (most likely affected people in: Russia)
+
+
+# Deck Failed to Load (aka: X_X)
+
+Your computer is unreliable to DNS Connection. You can verify by going into CMD and typing **nslookup castle.xyz** if the request times out, You are out of luck.
+
+If the face appears when the Deck has loaded successfully, This is a visual bug, You are all good.
+
+
+Solutions:
+
+> [!caution]
+> THESE SOLUTIONS ARE TOO RISKY, PROCEED WITH CAUTION.
+
+> [!warning]
+> Maintainer experience these issues as well.
+
+1. Reset your entire PC (only applies if this solution fails: Keep your Data during the PC reset)
+2. Contact Microsoft Support
+3. Flush your DNS (ipconfig /flushdns)
+4. Update your Network Drivers
+5. Switch DNS Assignment to either **8.8.8.8, 8.8.4.4 Google** or **1.1.1.1, 1.0.0.1 Cloudflare**
