@@ -69,6 +69,8 @@ Your DPI is trying to access something else. (most likely affected people in: Ru
 
 Your computer is unreliable to DNS Connection. You can verify by going into CMD and typing **nslookup castle.xyz** if the request times out, You are out of luck.
 
+Check internet connection, Maybe it's weak.
+
 If the face appears when the Deck has loaded successfully, This is a visual bug, You are all good.
 
 
